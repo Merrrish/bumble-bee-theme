@@ -1,0 +1,35 @@
+{
+  "name": "bumble-bee-theme",
+  "displayName": "BumbleBee Theme",
+  "description": "Yellow colored theme for VS Code",
+  "version": "0.1.0",
+  "publisher": "BumbleBeeYellowTheme",
+  "icon": "assets/Logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Merrrish/bumble-bee-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "yellow theme",
+    "bee theme",
+    "bumblebee theme",
+    "dark"
+  ],
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BumbleBee Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BumbleBee Theme-color-theme.json"
+      }
+    ]
+  }
+}
