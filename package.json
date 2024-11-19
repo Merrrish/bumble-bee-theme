@@ -2,7 +2,7 @@
   "name": "bumble-bee-theme",
   "displayName": "BumbleBee Theme",
   "description": "Yellow colored theme for VS Code",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "BumbleBeeYellowTheme",
   "icon": "assets/Logo.png",
   "repository": {
